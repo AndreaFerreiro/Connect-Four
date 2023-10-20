@@ -26,7 +26,7 @@ body{
 }
 .player{
     text-align: center;
-    margin-top: 55px;
+    margin-top: 35px;
     margin-bottom: 30px;
 }
 .grid{
@@ -58,4 +58,10 @@ body{
 }
 .none{
     display: none;
+}
+.reset{
+    background-color: white;
+    padding: 10px 15px;
+    margin: 10px;
+    border-radius: 10px;
 }
